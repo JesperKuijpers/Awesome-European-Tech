@@ -226,6 +226,7 @@ xychart-beta
 - [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
 - [Kalray](https://www.kalrayinc.com/) 🇫🇷 - Company developing processors for data centers and AI.
 - [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
+- [Prowise](https://www.prowise.com/) 🇳🇱 - An European ed tech company that ensures the highest quality requirements and certifications in terms of privacy, security and safety.
 
 ### IDEs
 - [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
